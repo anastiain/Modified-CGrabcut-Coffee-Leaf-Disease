@@ -20,6 +20,9 @@ This project focuses on modifying the C-Grabcut algorithm to improve the segment
 ## Results
 The modified C-Grabcut algorithm demonstrated significant improvements in segmenting coffee leaf images with complex backgrounds. The classification models achieved high accuracy in identifying and classifying various coffee leaf diseases.
 
+## Dataset link
+Pre-processed dataset can be download here : https://app.roboflow.com/tesis-ihiwj/coffee-leaves-disease/1
+
 ## References
 - Anonim, Deteksi Penyakit Daun Kopi Robusta Dataset. Roboflow, 2023.
 - K. Kusrini et al., “Data augmentation for automated pest classification in Mango farms,” Comput Electron Agric, vol. 179, Dec. 2020, doi: 10.1016/j.compag.2020.105842.
